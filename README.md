@@ -85,6 +85,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna,
 ### Live Demos
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
 
+### Reference Kits
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
 
 ## Useful Resources
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
