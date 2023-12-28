@@ -67,22 +67,22 @@ jupyter lab notebooks
 In-depth explanation of how the notebooks are organized and what each category represents.
 
 
-#### Trending
+### Trending
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
 
-#### Introduction
+### Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
 
-#### Convert & Optimize
+### Convert & Optimize
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
 
-#### Model Demos
+### Model Demos
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
 
-#### Model Training
+### Model Training
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
 
-#### Live Demos
+### Live Demos
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus urna, maximus sit amet sem nec, mattis laoreet nisl. Fusce quis leo fringilla, congue augue viverra, tempus augue. 
 
 
@@ -118,7 +118,3 @@ Write up of all the support options that are available
 * Discussions
 * Other community links
 * Intel support
-
----
-
-\* Other names and brands may be claimed as the property of others.
